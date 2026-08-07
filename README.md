@@ -17,7 +17,7 @@ target language. No significant moderating effect was identified for educational
 learning activities, and head-mounted display type. These findings underscore HiVR’s potential as a
 powerful tool for improving socio-emotional outcomes in L2 learning.
 
-## File descriptions:
+## File descriptions
 
 annotation_guidelines.csv: Lists all coded variables and their definitions.
 
