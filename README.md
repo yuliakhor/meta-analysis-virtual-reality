@@ -1,9 +1,6 @@
 # <b>Meta-Analysis of the Effect of Virtual Reality on Users' Socio-Emotional Variables</b>
 A meta-analytic project that examined the effect of high-immersion virtual reality environments on language learners' socio-emotional variables, including motivation, anxiety, engagement, and self-efficacy. 
 
-## Citation
-Khoruzhaya Y, Moranski K, Neuenschwander A, Ziegler N. (2026). The effect of high-immersion virtual reality environments on L2 learners’ socio-emotional variables: A meta-analysis. ReCALL, 38(3), 420-436. https://doi.org/10.1017/S0958344026100548
-
 ## Project Overview
 The effect of high-immersion virtual reality (HiVR) on second language (L2) learners’ socio-emotional
 responses has gained increasing attention in recent years, though findings remain mixed. This study meta-analyzed
@@ -23,3 +20,6 @@ powerful tool for improving socio-emotional outcomes in L2 learning.
 ## File descriptions:
 
 annotation_guidelines.csv: Lists all coded variables and their definitions.
+
+## Citation
+Khoruzhaya, Y., Moranski, K., Neuenschwander, A., & Ziegler, N. (2026). The effect of high-immersion virtual reality environments on L2 learners’ socio-emotional variables: A meta-analysis. ReCALL, 38(3), 420-436. https://doi.org/10.1017/S0958344026100548
