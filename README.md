@@ -25,5 +25,5 @@ powerful tool for improving socio-emotional outcomes in L2 learning.
 
 * ***quality_assurance.R:*** Includes code to calculate inter-annotator agreement.
   
-## Citation
+## References
 Khoruzhaya, Y., Moranski, K., Neuenschwander, A., & Ziegler, N. (2026). The effect of high-immersion virtual reality environments on L2 learners’ socio-emotional variables: A meta-analysis. ReCALL, 38(3), 420-436. https://doi.org/10.1017/S0958344026100548
