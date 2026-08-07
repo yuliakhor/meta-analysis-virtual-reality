@@ -1,4 +1,4 @@
-# <b>Meta-Analysis of the Effect of Virtual Reality on Users' Socio-Emotional Variables</b>
+# <b>Users' Socio-Emotional Variables in Virtual Reality</b>
 This project examined the effect of high-immersion virtual reality environments on language learners' socio-emotional variables, including motivation, anxiety, engagement, and self-efficacy. 
 
 ## Project Overview
