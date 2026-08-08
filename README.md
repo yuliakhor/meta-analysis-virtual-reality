@@ -19,7 +19,7 @@ powerful tool for improving socio-emotional outcomes in L2 learning.
 
 ## File descriptions
 
-* **annotation_guidelines.csv:** Lists all coded variables and their definitions.
+* **annotation_guidelines.pdf:** Lists all coded variables and their definitions.
 
 * **coded_studies.csv:** Shows how primary studies were coded.
 
